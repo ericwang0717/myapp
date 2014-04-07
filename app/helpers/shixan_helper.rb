@@ -1,0 +1,2 @@
+module ShixanHelper
+end
